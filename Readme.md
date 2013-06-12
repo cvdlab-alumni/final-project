@@ -1,50 +1,35 @@
 # Final project assignment
 **Computational Visual Design Lab ([CVDLab](https://github.com/cvd-lab))**  
 **DIA, "Roma Tre" University, Rome, Italy**  
-**Computational Graphics 2012**  
+**Computational Graphics 2013**  
 
-# Introduction
+## Introduction
 
-Final project is individual and mandatory.  
+The project is individual and mandatory. The exam cannot be sustained without an individual project, which must be delivered at least two days before the registration.
+Each student is free to choose the topic of the individual project within the general themes discussed below, but no two subjects may coincide.
+The structure and the graphic refinement of the web pages will contribute to the project evaluation, together with the quality of the produced javascript/python code, and with the visual quality of the details implemented in the project.
 
-Project must run on Google Chrome using the platform framework **[Plasm.js](https://github.com/cvdlab/plasm.js)** developed under the course [Computer Graphics](http://www.dia.uniroma3.it/~paoluzzi/web/did/graficacomp/2012/).  
+## General requirements
 
-Student can choose the project's subject among general themes discussed below.  
-
-
-## Specific themes
-
-### Models of biosystems
-
-The argument concerns the **3D modeling of biological systems** chosen by the student within folowing human systems: 
-
-- skeletal system
-- cardio-circulatory system
-- nervous system
-
-The project will investigate the construction of form with transfinite techniques using  solids, surfaces and spline curves of appropriate size and structure.  
-
-The project can refer to [repositories of DICOM images](https://github.com/cvdlab-bio/web3d) and / or graphic images taken from medical atlases.   
-An excellent example of this type is provided by the volume *[The Human Body, An Illustrated Guide to Every Part of The Human Body and How it Works](http://us.dk.com/nf/Book/BookDisplay/0,,9780789479884,00.html?strSrchSql=Human+Body/The_Human_Body_Martyn_Page)*, by Martyn Page (Ed.).
+Each student project must choose some appropriate techniques of shape generation/reconstruction for each modeled object or part of it, and describe it synthetically in English. 
+The project will be illustrated by a set of web pages hosted/linked within the student account on [github](https://github.com/cvdlab-cg/), using the standard CSS stylesheets offered by this site.
+The sources of images, information or data must be documented or linked within the project's web site.
+The images or thumbnails of the generated models must embed a link to the Javascript executable code, written using the package [Plasm.js](http://cvdlab.github.io/plasm.js/), as learned during the [Computational Graphics](https://github.com/cvdlab-cg/) course.
+Prototypes of the shape should be developed by using the  python module [Pyplasm](www.plasm.net), with sources linked from the relative images.
 
 
-### Models of Leonardo's central plan schemes
+### Models of Italian design
 
-The project involves the construction of a geometric reconstruction of Leonardo's central plan schemes.   
+The theme concerns the geometric modeling of some (at least two) appealing and representative examples of Italian design of the XX century, choosing from interior, industrial, automotive, or fashion design (see the article [Italian design](http://en.wikipedia.org/wiki/Italian_design) from Wikipedia, the free encyclopedia, and/or from other sources).
 
-A collection of images of Leonardo's sketches and / or reconstructions using physical models of Leonardo's central plan schemes can be found in this [archive](http://www.dia.uniroma3.it/~paoluzzi/web/did/graficacomp/2010/doc/leonardo.zip).
+### Models of a modular furniture system
 
+This theme concerns the development of models of modular furniture systems, for bedroom, office, outdoor, etc.  (e.g. from [IKEA](http://www.ikea.com/gb/en/catalog/allproducts/)).
+A huge number of examples can be found by googling for images of [modular furniture systems](https://www.google.com/search?q=modular+furniture+systems&source=lnms&tbm=isch&sa=X&ei=CwyvUcnQLcHKPajXgagL&ved=0CAoQ_AUoAQ&biw=1440&bih=802).
+It would be highly appreciated the design of a software system highly modular and with software components directly reproducing the various furniture elements.
+An appreciated goal will be the capability of easily assembling the code, in order to reproduce the layout of a user-designed environment.
 
-### Models of Palladian villas
-
-The project involves the construction of **3D models of Palladian villas**.  
-
-This denomination denotes a set of exclusive villas, built in the mid-sixteenth century by Andrea Palladio in the territory of the Republic of Venice and concentrated mostly in the province of Vicenza.  
-
-Thanks also to the detailed drawings published by Palladio in the treatise *I quattro libri dell'architettura* (1570), the Palladian villas have been for centuries an object of study for architects from Europe --- cit. Wikipedia, and are subject of numerous 3D graphics reconstructions.
-
-
-# Assignment delivery
+## Assignment delivery
 
 The project must be contained a directory entitled `final-project`,  
 pushed into your repository in cvdlab-cg organization [https://github.com/cvdlab-cg/xxxxxx](https://github.com/cvdlab-cg/)  
@@ -60,5 +45,3 @@ In these pages student must:
 - present the work with systesis images and references to used resources.  
 
 The structure and the graphic quality of the web pages of the project's description will contribute, along with the quality of JavaScript code, and the quality of the implemented details, to the formulation of the final mark.  
-
-The project must be delivered al least two days before verbalization.  
