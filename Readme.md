@@ -6,13 +6,13 @@
 
 ## Subject: "Your Virtual Home"
 
-Produce a Three.js environment which allows to navigate a textured (i.e. pretty good looking) model representing your home (possibly furnished), and to interact with some objects.
+Produce a `Three.js` environment which allows to navigate a textured (i.e. pretty good looking) model representing your home (possibly furnished), and to interact with some objects.
 
 ## Requirements
 
-The base model must be modelled using LAR-CC pacakge. 
+The base model must be modelled using `LAR-CC` pacakge. 
 
-This base model must be imported in a Three.js based web environment.
+This base model must be imported in a `Three.js` based web environment.
 
 The imported model must be provided with doors and windows and some articles of furniture.
 
@@ -26,19 +26,16 @@ The environment must contain some sort of interaction with the model (i.e. use o
 
 Any improvement to the list of the minimum requirements will be taken into consideration at the time of the final grade assignation.
 
-Some improovements idea could be:
+Some improvement ideas could be:
 
 * use dinamic texturing
-
 * use a camera path to drive the user in a guided tour of your apt
-
 * ...
 
 ## Evaluation
 
-The aim of the final project is to test 
+...
 
-More the student will show to be able to master learned graphic tequniques 
 
 ## Delivery
 
