@@ -34,7 +34,13 @@ Some improvement ideas could be:
 
 ## Evaluation
 
-...
+The final project aim to test the capabilities learned by the student during the course. Assuming that "no one tends to the ugly", we expect to see something pleasing to the eye. To see something awful could mean that the student does not master the techniques exposed during the lessons.
+
+Do not be afraid to experiment: each step over the boundary of the course program will be appropriately recognized:
+
+* graphic techniques number is boundless, we only lifted the lid (check the textbook for example!!!)
+
+* HTML5 offers a huge variety of tools and APIs you are encouradged to explore
 
 
 ## Delivery
@@ -57,22 +63,26 @@ All the files you produce must be contained in a directory entitled `final_proje
         |   └── (style02.css)
         |   └── (etc.css)
         ├── index.html
+        └── Readme.md
 ```
 
 Organize the folder structure in a tidy way: put all the JavaScript files into a directory called `scripts`, possibly stylesheet and image files into directories called `styles` and `images` respectively.
 
-All the dependency files **must be included locally**. 
+All the dependency files **must be included locally**.
+
+Main file must be called `index.html`.
+
+A file called `Readme.md` containing a description of the work must be produced. Use this file to explain how the code has been modularized and which graphic techniques has been applied and where. Use some kind of "dry-style" which can effectively shorten the discussion time by helping us to rapidly understand what you did.
 
 The delivery is required before final project discussion.   
 Final project discussions will be scheduled on July 2014, September 2014 and February 2014. Precise dates will be posted on CVDLab Facebook secret group: stay tuned!
 
-
 ## Tips
 
-Don't forget to use the `dat.GUI` object to parametrize your virtual home.
+Don't forget to use the `dat.GUI` object to parametrize your virtual home environment.
 
 ## Coaching meetings
 
 We're going to schedule some appointments all of you are strongly encouraged to take part in. During these meetings we'll gather all together in a classroom to share knowledge about graphics methods and techniques adopted by each of you to resolve problems encountered facing the final project.
 
-The first of these meetings is scheduled for **Tuesday Jun 17th, 2:00PM in N14a**.
+The first of these meetings is scheduled for **Tuesday Jun 17th, 2:00PM in N14a**. **DON'T MISS IT**
